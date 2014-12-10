@@ -1,0 +1,11 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "danielbachhuber/wp-cli-stat-command": "dev-master",
+        "danielbachhuber/dictator": "dev-master"
+    },
+    "config": {
+        "bin-dir": "bin",
+        "vendor-dir": "vendor"
+    }
+}
